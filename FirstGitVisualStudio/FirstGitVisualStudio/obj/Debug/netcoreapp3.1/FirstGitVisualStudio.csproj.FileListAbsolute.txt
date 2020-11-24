@@ -1,0 +1,12 @@
+C:\Monica\GitHub\FirstGitVisualStudio\FirstGitVisualStudio\bin\Debug\netcoreapp3.1\FirstGitVisualStudio.exe
+C:\Monica\GitHub\FirstGitVisualStudio\FirstGitVisualStudio\bin\Debug\netcoreapp3.1\FirstGitVisualStudio.deps.json
+C:\Monica\GitHub\FirstGitVisualStudio\FirstGitVisualStudio\bin\Debug\netcoreapp3.1\FirstGitVisualStudio.runtimeconfig.json
+C:\Monica\GitHub\FirstGitVisualStudio\FirstGitVisualStudio\bin\Debug\netcoreapp3.1\FirstGitVisualStudio.runtimeconfig.dev.json
+C:\Monica\GitHub\FirstGitVisualStudio\FirstGitVisualStudio\bin\Debug\netcoreapp3.1\FirstGitVisualStudio.dll
+C:\Monica\GitHub\FirstGitVisualStudio\FirstGitVisualStudio\bin\Debug\netcoreapp3.1\FirstGitVisualStudio.pdb
+C:\Monica\GitHub\FirstGitVisualStudio\FirstGitVisualStudio\obj\Debug\netcoreapp3.1\FirstGitVisualStudio.AssemblyInfoInputs.cache
+C:\Monica\GitHub\FirstGitVisualStudio\FirstGitVisualStudio\obj\Debug\netcoreapp3.1\FirstGitVisualStudio.AssemblyInfo.cs
+C:\Monica\GitHub\FirstGitVisualStudio\FirstGitVisualStudio\obj\Debug\netcoreapp3.1\FirstGitVisualStudio.csproj.CoreCompileInputs.cache
+C:\Monica\GitHub\FirstGitVisualStudio\FirstGitVisualStudio\obj\Debug\netcoreapp3.1\FirstGitVisualStudio.dll
+C:\Monica\GitHub\FirstGitVisualStudio\FirstGitVisualStudio\obj\Debug\netcoreapp3.1\FirstGitVisualStudio.pdb
+C:\Monica\GitHub\FirstGitVisualStudio\FirstGitVisualStudio\obj\Debug\netcoreapp3.1\FirstGitVisualStudio.genruntimeconfig.cache
