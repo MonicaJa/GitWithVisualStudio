@@ -6,7 +6,7 @@ namespace FirstGitVisualStudio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("First Visual Studio project with GitHub");
+            Console.WriteLine("Updating code to check in from Visual Studio");
         }
     }
 }
